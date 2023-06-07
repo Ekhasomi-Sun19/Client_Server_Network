@@ -6,8 +6,7 @@
 One thing I'm trying to accomplish as a software engineer is to be able to make useful impact in the field of technology, being able to create web applicaton and or useful software that will make daily task easy for end users concern. In order to be able to accomplish this, learning specific languages for different task function is very much important in my career part. You cannot talk to a software engineer without asking about their programming, logical, and technical problem solving skills.
 
 ## Provide a description the networking program that you wrote. Describe how to use your software.
-For this module, I design a client server network system
-This program would run the server program on one computer and the client program on another computer. The server will listen for incoming connections, and the client will connect to the server. The client will send a message to the server, and the server will respond with a message. The client will then display the server's response.
+Understanding networks is a key to being a successful system administrator. For this script  wrote two networking functions. Get-IPNetwork and Test-IPNetwork. Get-IPNetwork will return a network ID as an [IPAddress] object given an IPAddress and SubnetMask. Test-IPNetwork will take two IPAddresses and a subnet mask and return a true if they are on the same network and a false otherwise. These only need to work for IPv4. 
 
 - Web App (Calculator)
 - Data Analysis (Python)
@@ -16,7 +15,7 @@ This program would run the server program on one computer and the client program
 - Mobile App (Learn Kotlin)
 
 ## Describe your purpose for writing this software.
-I'm currently minoring in Computer information Technology, and part of the requirement for my minor is to understand network protocol and how information and data are transferred within network. Currently I have been learning advanced scripting for network automation, and for this reason I decided to write this software in python as it his also a scripting language.
+I'm currently minoring in Computer information Technology, and part of the requirement for my minor is to understand network protocol and how information and data are transferred within network. Currently I have been learning advanced scripting for network automation, and for this reason I decided to write this software in powershell as it his also a scripting language.
 
 ## Provide a link to your YouTube demonstration.  
 
@@ -34,7 +33,7 @@ The program is using TCP (Transmission Control Protocol) for communication betwe
 I used visual studio code and my code was later saved on Github
 
 ## Describe the programming language that you used and any libraries.
-Python
+PowerShell
 
 ## Useful Websites
 

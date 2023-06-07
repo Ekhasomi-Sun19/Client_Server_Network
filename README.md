@@ -22,12 +22,7 @@ I'm currently minoring in Computer information Technology, and part of the requi
 [Software Demo Video](http://youtube.link.goes.here)
 
 ## Network Communication
-## Describe the architecture that you used (client/server or peer-to-peer)
-The architecture being used in the provided client-server program is the traditional Client-Server Model. In this model, the server waits for incoming connections from clients and responds to their requests.
-
-## Identify if you are using TCP or UDP and what port numbers are used.
-The program is using TCP (Transmission Control Protocol) for communication between the client and server. TCP is a reliable and connection-oriented protocol that ensures data integrity and ordered delivery.
-
+Write a program that allows one computer to communicate with another computer. And this program is able to determine if a certain IP address is part of a local network or not.
 
 ## Development Environment. Describe the tools that you used to develop the software
 I used visual studio code and my code was later saved on Github
